@@ -1,5 +1,6 @@
 CoinMarketCap API implementations:
 ====================================
+<p style="text-align:center;">![CoinMarketCap](coinmarketcap.svg "CoinMarketCap")</p>
 ## Required Dependencies:
 ```pip install requests prettytable colorama xlsxwriter```
 
@@ -19,4 +20,4 @@ CoinMarketCap API implementations:
 /projects/p5/: Store Cryptocurrency Information in Excel for 1000 Currencies
 ```
 ## Contributes:
-Thank you for ![Python & Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/coinmarketcap/ "Python & Cryptocurrency")
+Thank you for [Python & Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/coinmarketcap/ "Python & Cryptocurrency")

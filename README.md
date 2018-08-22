@@ -1,9 +1,11 @@
-CoinMarketCap API implementations:
-====================================
 <p align="center"><img src="https://github.com/tarek-aec/coinmarketcap/blob/master/coinmarketcap.svg" width="300"></p>
 
+# CoinMarketCap API implementations:
+
 ## Required Dependencies:
-```pip install requests prettytable colorama xlsxwriter```
+```sh
+pip3 install requests prettytable colorama xlsxwriter
+```
 
 ## in API folder:
 

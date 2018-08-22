@@ -1,6 +1,7 @@
 CoinMarketCap API implementations:
 ====================================
-<p style="text-align:center;">![CoinMarketCap](coinmarketcap.svg "CoinMarketCap")</p>
+<p align="center"><img src="https://github.com/tarek-aec/coinmarketcap/blob/master/coinmarketcap.svg" width="300"></p>
+
 ## Required Dependencies:
 ```pip install requests prettytable colorama xlsxwriter```
 
